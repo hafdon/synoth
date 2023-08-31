@@ -1,0 +1,27 @@
+{
+  "name": "synoth",
+  "version": "1.0.0",
+  "description": "Process XML BuNaMo files to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafdon/synoth.git"
+  },
+  "keywords": [
+    "XML",
+    "JSON",
+    "BuNaMo"
+  ],
+  "author": "Zachary Alec Weisser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafdon/synoth/issues"
+  },
+  "homepage": "https://github.com/hafdon/synoth#readme",
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}
